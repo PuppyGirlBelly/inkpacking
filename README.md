@@ -1,4 +1,7 @@
 # inkpacking
+
+A fork of the repo created by [Moini](https://github.com/Moini/inkpacking), updated to work in Inkscape 1.2.
+
 Inkscape extension to create foldable boxes, with finger slots and different flaps, takes paper thickness into account
 
 The extension was published by inkscapeforum.com member celso.junior in 2011 (see [this forum post](http://www.inkscapeforum.com/viewtopic.php?f=34&t=10880) for more details and a description by the original author). It has been updated to be compatible with Inkscape 0.91.
@@ -13,9 +16,9 @@ Copy the files inkpacking.py and inkpacking.inx into the directory indicated in 
 
 ## Usage:
 
-* Find the extension in Render -> InkPACKING...
-* Enter values for the available options
-* You can use the preview functionality (checkbox "Live Preview" at the bottom) to see how your changes affect the appearance of the folding box
+- Find the extension in Render -> InkPACKING...
+- Enter values for the available options
+- You can use the preview functionality (checkbox "Live Preview" at the bottom) to see how your changes affect the appearance of the folding box
 
 ## Screenshots:
 
